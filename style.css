@@ -1,1 +1,6 @@
-* {box-sizing: border-box}
+* {
+  box-sizing: border-box;
+}
+body {
+  color: #121212;
+}
